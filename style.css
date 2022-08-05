@@ -312,9 +312,7 @@ footer .footer-icons{
     font-size:25px;
     margin:20px;
 }
-#about div{
-    /* display:flex; */
-}
+
 
 #about img{
     float:left;
@@ -366,6 +364,7 @@ footer .footer-icons{
     transform: scale(1.5);
     filter: brightness(130%);
 }
+
 header ul a{
     color:white;
     text-decoration:none;
